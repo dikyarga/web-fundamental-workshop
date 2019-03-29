@@ -27,6 +27,20 @@ main {
   justify-content: center;
 }
 
+.product {
+  width: 200px;
+  border: 1px solid grey;
+  padding: 20px;
+}
+
+.product-image {
+  height: 100px;
+}
+
+.product .product-detail__price {
+  color: red;
+}
+
 footer {
   position: fixed;
   bottom: 5px;
