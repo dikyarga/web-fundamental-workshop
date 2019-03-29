@@ -1,0 +1,20 @@
+body {
+  background-color: cornsilk;
+}
+
+h1 {
+  color:#FF4136;
+}
+
+h6 {
+  font-size: 20px;
+}
+
+.title {
+  text-align: center;
+}
+
+#mascot {
+  height: 200px;
+  border: 2px solid red;
+}
